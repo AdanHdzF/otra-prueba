@@ -1,1 +1,1 @@
-console.log('Hola tony!!!');
+console.log('2 + 2 = pez');
